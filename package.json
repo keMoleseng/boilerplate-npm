@@ -1,6 +1,7 @@
 {
 	"author": "Moleseng Mokgosi",
 	"description": "This project helps you learn Node.js and package.json and how to use them",
+	"keywords": [ "freecodecamp", "backend", "development" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
