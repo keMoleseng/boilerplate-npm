@@ -3,9 +3,10 @@
 	"description": "This project helps you learn Node.js and package.json and how to use them",
 	"keywords": [ "freecodecamp", "backend", "development" ],
 	"license": "WITS",
-	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
+	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
+		"moment":  "2.10.2" ,
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
