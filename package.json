@@ -1,5 +1,6 @@
 {
 	"author": "Moleseng Mokgosi",
+	"description": "This project helps you learn Node.js and package.json and how to use them",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
